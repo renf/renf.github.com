@@ -5,7 +5,8 @@ tagline:
 ---
 {% include JB/setup %}
 
-
+幸福可以无限靠近，无法彻底到达.<br>
+不挣扎不绝望不算青春
 
 ## PHP 
 
